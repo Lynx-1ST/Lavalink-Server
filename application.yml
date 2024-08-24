@@ -5,6 +5,9 @@ spring:
   main:
     banner-mode: log
 lavalink:
+  plugins:
+    - dependency: "dev.arbjerg.lavalink:lavalink-plugin:3.0.0"
+      repository: "https://maven.lavalink.dev/releases"
   server:
     password: "youshallnotpass"
     sources:
