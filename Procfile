@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar lavaplayer.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar lavalink.jar
