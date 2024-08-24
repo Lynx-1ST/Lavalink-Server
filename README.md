@@ -1,15 +1,16 @@
 # Lavalink Server
 
-A Lavalink server ready to be deployed to Heroku or Repl.it
+Một server Lavalink v3.7.10 ( V3 ) được tạo ra để push lên Repl hoặc Heroku.
 
-## Deploy from the `port80` branch
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bossbadi/lavalink_server/tree/port80)
+## Deploy Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lynx-1ST/Lavalink-Server)
 
-## Connecting to your server
-- **host:** the website without `https://` or any slashes (e.g. `mylavalinkserver.herokuapp.com`)
+## Kết nối vào server:
+- **host:** một DNS không có `https://` hoặc bất kì dấu gạch chéo nào. (e.g. `mylavalinkserver.herokuapp.com`)
 - **port:** `80`
 - **password:** `youshallnotpass`
-- **region:** `en` (doesn't matter)
-- **name:** `node-1` (doesn't matter)
+- **region:** `en` ( không quan trọng )
+- **name:** `node-1` ( không quan trọng )
 
-You can fork the repository and change `application.yml` to your liking.
+Bạn có thể fork project này để thay đổi mật khẩu, port mà bạn thích. 
+GLHF !
